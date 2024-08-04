@@ -18,7 +18,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/foodplease.git
+git clone https://github.com/Javierinc/foodplease.git
 ```
 
 ### 2. Crear y Activar un Entorno Virtual
