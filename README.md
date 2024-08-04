@@ -10,7 +10,8 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 - MySQL
 - pip (el gestor de paquetes de Python)
 - Django
-
+## Video de la aplicación funcionando
+https://youtu.be/tOv6kXBbn7c
 ## Instalación
 
 ### 1. Clonar el Repositorio
